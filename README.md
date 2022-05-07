@@ -40,7 +40,7 @@ For displaying the data on our webpage:
 
 * The second half of the dynamic webpage allows user to view the UFO Sightings data stored in the JSON file [data.js](static/js/data.js) in the form of a table. 
 
-Below is a snap shot of the table displayed by default when no filters are selected:
+  Below is a snap shot of the table displayed by default when no filters are selected:
 
 <p align="center"> <img src = "static/images/default.png" width ="50%"> </p>
 
@@ -48,7 +48,7 @@ Below is a snap shot of the table displayed by default when no filters are selec
 The date has to be dd/mm/yyyy format. If the date is not in proper format, the data will not be displayed on the table.<br>
 The City, State, Country and Shape have to be entered in lower case. 
 
-<p align="center"> <img src = "static/images/filters.png" width ="40%"> </p>
+<p align="center"> <img src = "static/images/filters.png" width ="15%"> </p>
 
 * When the user enters a search criteria as : 
 City: el cajub
@@ -57,7 +57,7 @@ Shape: triangle
 
 The following data is displayed on the screen for the above search criteria.
 
-<p align="center"> <img src = "static/images/data_filtered.png" width ="50%"> </p>
+<p align="center"> <img src = "static/images/data_filtered.png" width ="65%"> </p>
 
 * User can also filter data based on only one crtirea , for eg. Date.
 
@@ -66,7 +66,7 @@ Date: 1/7/2010
 
 The following data is displayed on the screen for the above date entered by the user:
 
-<p align="center"> <img src = "static/images/date_filtered.png" width ="50%"> </p>
+<p align="center"> <img src = "static/images/date_filtered.png" width ="65%"> </p>
 
 
 
