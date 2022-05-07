@@ -17,6 +17,8 @@ This project is based on Java Script.
 In this project we are focussed on building a **dynamic webpage** that displays UFOs sightings information for upcoming annual gathering of UFO enthusiasts in McMinnville, Oregon. 
 This webpage will accept User Inputs and visually adjust to reflect that interaction. We will build our dynamic pages by inserting JavaScript into an HTML page. We will also draw on our knowledge to CSS ad Bootstrap and explore some Chrome dev tools to test our code as we go.
 
+<p align="center"> <img src = "static/images/header.png" width ="50%"> </p>
+
 ### <a name="Purpose"></a>Purpose
 
 The purpose of this project is to create a table to organize UFO data that is stored as JavaScript array or List. This table will have the ability to filter data based on certain criteria and will be created using JavaScript as the primary coding language.
@@ -27,10 +29,7 @@ For displaying the data on our webpage:
 2. Add filters to that table which lets users refine their search on more than one level. We will use **JavaScript** to accomplish this task. 
 3. The table will be inserted into and visually displayed by an HTML page. 
 4. We will use basic **HTML, Bootstrap and CSS** to build and style the entire page. 
-5. The webpage will include an **attention grabbing header, article summary and brief article**. Our end result will be a presentation of data that is both visually appealing and 
-   interactive.
-
-<p align="center"> <img src = "static/images/header.png" width ="50%"> </p>
+5. The webpage will include an **attention grabbing header, article summary and brief article**. Our end result will be a presentation of data that is both visually appealing and interactive.
 
  ## <a name="results"></a>Results
 
